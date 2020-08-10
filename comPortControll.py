@@ -1,5 +1,5 @@
 import serial
-
+#test
 ser = serial.Serial('/dev/ttyS4', baudrate=115200) #open serial port
 print(ser.name) #check which port was really used
 
