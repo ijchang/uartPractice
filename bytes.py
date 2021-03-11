@@ -8,6 +8,7 @@ Byte5 = byteData[4]
 
 print('type of byteData is ', type(byteData))
 print('byteData = ', byteData)
+print('1st byte = ', Byte1)
 print('1st byte = ', hex(Byte1))
 print('type of 1st byte = ', type(Byte1))
 print('2nd byte = ', hex(Byte2))
